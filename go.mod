@@ -14,3 +14,5 @@ require (
 	github.com/qri-io/jsonpointer v0.1.1 // indirect
 	golang.org/x/sys v0.0.0-20201207223542-d4d67f95c62d // indirect
 )
+
+replace go.neonxp.dev/jsonrpc2 => github.com/salemzii/jsonrpc2 v0.0.0-20221230090329-90ca14a82589
